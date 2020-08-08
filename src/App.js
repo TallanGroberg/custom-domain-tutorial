@@ -7,7 +7,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         
-          Yes this address is now taken!!
+      this domain is custom!!!
+          <a href="https://dev.to/tallangroberg">back to tutorials</a>
       </header>
     </div>
   );
